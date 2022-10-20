@@ -1,0 +1,6 @@
+MOV AX, BX
+MOV
+LL ADD AX, C
+MOV AX, D
+ADD
+END
